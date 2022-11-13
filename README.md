@@ -8,4 +8,4 @@
 3. [데이터 정재하기]
     * [데이터 정재하기](https://github.com/youjin2github/R_-/blob/main/데이터%20정재.R)
 4. [실습]
-    * [실습](https://github.com/youjin2github/python_-/blob/main/한국복지패널데이터.py)
+    * [실습](https://github.com/youjin2github/R_-/blob/main/시험성적_외부데이터.R)
